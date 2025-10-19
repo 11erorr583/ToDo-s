@@ -1,0 +1,6 @@
+Flask==2.0.3
+cs50==6.0.1
+flask-session==0.4.0
+werkzeug==2.0.3
+datetime==4.3
+
